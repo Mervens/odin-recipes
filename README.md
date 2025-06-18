@@ -7,3 +7,5 @@ I believe this is going to contain recipes based on the name, but I'll find out 
 
 Day 2:
 Crepe Image found at: https://commons.m.wikimedia.org/wiki/File:Crep_relleno_de_chocolate.jpg with a CC License
+Shrimp Pasta Image found at: https://flic.kr/p/bortGY
+Basmati Rice Image found at: https://ccnull.de/foto/kuwaiti-machboos-mit-huhn-und-safranreis/1101903
