@@ -9,3 +9,5 @@ Day 2:
 Crepe Image found at: https://commons.m.wikimedia.org/wiki/File:Crep_relleno_de_chocolate.jpg with a CC License</br>
 Shrimp Pasta Image found at: https://flic.kr/p/bortGY</br>
 Basmati Rice Image found at: https://ccnull.de/foto/kuwaiti-machboos-mit-huhn-und-safranreis/1101903
+
+Day 5: Back to this! Been a bit busy at work but I'm currently 57% through fundamentals and it's time apparently to go and fix up this site using the CSS taught so far. CSS was generally my favorite part of the designing process, so I'm exited to see how I can evolve this initial plain-white site.
